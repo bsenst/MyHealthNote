@@ -1,2 +1,2 @@
 # MyHealthNote
-Streamlit app prototype to document and display daily vital parameters
+a Patient Health Record prototype in Streamlit
